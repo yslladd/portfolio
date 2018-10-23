@@ -154,12 +154,70 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\270x270.png" />
+    <Content Include="Content\backgrounds\1920x1000.jpg" />
+    <Content Include="Content\backgrounds\1920x1280.jpg" />
+    <Content Include="Content\backgrounds\1920x2000.jpg" />
+    <Content Include="Content\backgrounds\pattern.png" />
+    <Content Include="Content\backgrounds\_1920x1280.jpg" />
+    <Content Include="Content\css\animate\animate.min.css" />
+    <Content Include="Content\css\base.css" />
+    <Content Include="Content\css\elements.css" />
+    <Content Include="Content\css\fontawesome\font-awesome.min.css" />
+    <Content Include="Content\css\fontawesome\font\fontawesome-webfont.svg" />
+    <Content Include="Content\css\grid.css" />
+    <Content Include="Content\css\iconfontcustom\fonts\iconfontcustom.svg" />
+    <Content Include="Content\css\iconfontcustom\icon-font-custom.css" />
+    <Content Include="Content\css\layout.css" />
+    <Content Include="Content\css\skins\default.css" />
+    <Content Include="Content\images\bg-double-dotted.gif" />
+    <Content Include="Content\images\bg-search.png" />
+    <Content Include="Content\images\bg-single-dotted.gif" />
+    <Content Include="Content\images\loader.gif" />
+    <Content Include="Content\images\next.png" />
+    <Content Include="Content\images\prev.png" />
+    <Content Include="Content\portfolio\370x370-1.png" />
+    <Content Include="Content\portfolio\370x370-2.png" />
+    <Content Include="Content\portfolio\370x370-3.png" />
+    <Content Include="Content\portfolio\370x370-4.png" />
+    <Content Include="Content\portfolio\370x370-5.png" />
+    <Content Include="Content\portfolio\370x370-6.png" />
+    <Content Include="Content\portfolio\570x450-1.png" />
+    <Content Include="Content\portfolio\570x450-2.png" />
+    <Content Include="Content\portfolio\570x450-3.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Scripts\bxslider\images\bg_direction_nav.png" />
+    <Content Include="Scripts\bxslider\images\bx_loader.gif" />
+    <Content Include="Scripts\bxslider\images\controls.png" />
+    <Content Include="Scripts\bxslider\jquery.bxslider.css" />
+    <Content Include="Scripts\bxslider\jquery.bxslider.min.js" />
+    <Content Include="Scripts\custom.js" />
+    <Content Include="Scripts\easing\jquery.easing.1.3.js" />
+    <Content Include="Scripts\easypiechart\jquery.easypiechart.min.js" />
+    <Content Include="Scripts\easytabs\jquery.easytabs.min.js" />
+    <Content Include="Scripts\fitvids\jquery.fitvids.js" />
+    <Content Include="Scripts\gmap\jquery.gmap.min.js" />
+    <Content Include="Scripts\isotope\imagesloaded.pkgd.min.js" />
+    <Content Include="Scripts\isotope\isotope.pkgd.min.js" />
+    <Content Include="Scripts\jquery-2.1.0.min.js" />
+    <Content Include="Scripts\jqueryform\jquery.form.min.js" />
+    <Content Include="Scripts\jqueryvalidate\jquery.validate.min.js" />
+    <Content Include="Scripts\magnificpopup\jquery.magnific-popup.min.js" />
+    <Content Include="Scripts\magnificpopup\magnific-popup.css" />
+    <Content Include="Scripts\modernizr-2.6.2.min.js" />
+    <Content Include="Scripts\parallax\jquery.parallax.min.js" />
+    <Content Include="Scripts\scrollspy\scrollspy.min.js" />
+    <Content Include="Scripts\simpleplaceholder\jquery.simpleplaceholder.js" />
+    <Content Include="Scripts\superfish\hoverIntent.js" />
+    <Content Include="Scripts\superfish\superfish.js" />
+    <Content Include="Scripts\viewport\jquery.viewport.js" />
+    <Content Include="Scripts\waypoints\waypoints-sticky.min.js" />
+    <Content Include="Scripts\waypoints\waypoints.min.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -177,16 +235,20 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Content\backgrounds\" />
-    <Folder Include="Content\portfolio\" />
     <Folder Include="Models\" />
-    <Folder Include="Scripts\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\css\fontawesome\font\fontawesome-webfont.eot" />
+    <Content Include="Content\css\fontawesome\font\fontawesome-webfont.ttf" />
+    <Content Include="Content\css\fontawesome\font\fontawesome-webfont.woff" />
+    <Content Include="Content\css\fontawesome\font\FontAwesome.otf" />
+    <Content Include="Content\css\iconfontcustom\fonts\iconfontcustom.eot" />
+    <Content Include="Content\css\iconfontcustom\fonts\iconfontcustom.ttf" />
+    <Content Include="Content\css\iconfontcustom\fonts\iconfontcustom.woff" />
     <None Include="packages.config" />
   </ItemGroup>
   <PropertyGroup>
