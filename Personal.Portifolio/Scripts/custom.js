@@ -233,7 +233,8 @@
 					$(form).ajaxSubmit({
 						type: "POST",
 						data: $(form).serialize(),
-						url: "_layout/php/send.php",
+						//url: "_layout/php/send.php",
+                        url: "home/Contact/?name=" + $("#name").val() + "&email=" + $("#nm").val() + "&message=" + $("#message").val(),
 						success: function(msg) {
 							
 							if (msg == 'OK') {

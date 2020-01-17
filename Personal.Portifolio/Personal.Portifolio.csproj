@@ -154,7 +154,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\270x270.png" />
+    <Content Include="Content\270x270.jpeg" />
     <Content Include="Content\backgrounds\1920x1000.jpg" />
     <Content Include="Content\backgrounds\1920x1280.jpg" />
     <Content Include="Content\backgrounds\1920x2000.jpg" />
@@ -174,6 +174,7 @@
     <Content Include="Content\images\bg-search.png" />
     <Content Include="Content\images\bg-single-dotted.gif" />
     <Content Include="Content\images\loader.gif" />
+    <Content Include="Content\images\microsoft.png" />
     <Content Include="Content\images\next.png" />
     <Content Include="Content\images\prev.png" />
     <Content Include="Content\portfolio\370x370-1.png" />
@@ -191,6 +192,20 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="images\bg-double-dotted.gif" />
+    <Content Include="images\bg-search.png" />
+    <Content Include="images\bg-single-dotted.gif" />
+    <Content Include="images\BTG-PACTUAL.jpg" />
+    <Content Include="images\footer-logo.png" />
+    <Content Include="images\itau_logo.fw.png" />
+    <Content Include="images\llip.png" />
+    <Content Include="images\loader.gif" />
+    <Content Include="images\Logo-Votorantim1.jpg" />
+    <Content Include="images\next.png" />
+    <Content Include="images\othon.png" />
+    <Content Include="images\prev.png" />
+    <Content Include="images\prt_280x188_1366810368.jpg" />
+    <Content Include="images\zonasullogo.jpg" />
     <Content Include="Scripts\bxslider\images\bg_direction_nav.png" />
     <Content Include="Scripts\bxslider\images\bx_loader.gif" />
     <Content Include="Scripts\bxslider\images\controls.png" />
@@ -235,6 +250,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="blog\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
