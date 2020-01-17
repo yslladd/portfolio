@@ -195,17 +195,9 @@
     <Content Include="images\bg-double-dotted.gif" />
     <Content Include="images\bg-search.png" />
     <Content Include="images\bg-single-dotted.gif" />
-    <Content Include="images\BTG-PACTUAL.jpg" />
-    <Content Include="images\footer-logo.png" />
-    <Content Include="images\itau_logo.fw.png" />
-    <Content Include="images\llip.png" />
     <Content Include="images\loader.gif" />
-    <Content Include="images\Logo-Votorantim1.jpg" />
     <Content Include="images\next.png" />
-    <Content Include="images\othon.png" />
     <Content Include="images\prev.png" />
-    <Content Include="images\prt_280x188_1366810368.jpg" />
-    <Content Include="images\zonasullogo.jpg" />
     <Content Include="Scripts\bxslider\images\bg_direction_nav.png" />
     <Content Include="Scripts\bxslider\images\bx_loader.gif" />
     <Content Include="Scripts\bxslider\images\controls.png" />
